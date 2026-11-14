@@ -2,6 +2,8 @@
 
 Ce support documente Framer, une application de webdesign.
 
+![Interface de Framer](img/framer-interface.avif)
+
 ## Extensions et utilitaires
 
 Pour exporter un design depuis Figma dans Framer, l'extension officielle: 
